@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Harsh 👋</h1>
+<h3 align="center">Passionate Developer | Web, Mobile & Hardware Enthusiast</h3>
 
-<!--
-**Harshnikam04/harshnikam04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshnikam04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Harshnikam04">
+    <img src="https://img.shields.io/github/followers/Harshnikam04?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Agrodew** (Mobile App & Node.js Backend) and my **Interactive Portfolio Website**.
+- 🌱 I’m currently learning and building projects using **React Native**, **Node.js**, and **KiCad**.
+- 💡 I love exploring the intersection of **Software** and **Hardware** (like my Relay-card project!).
+- 💬 Ask me about **JavaScript, Mobile Development, or PCB Design**.
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,firebase,express,mongodb,git,github,vscode" />
+</p>
+
+*(Feel free to remove or add icons above based on what you know! Supported icons can be found [here](https://skillicons.dev/))*
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+| ------- | ----------- |
+| 📱 **Agrodew** | A comprehensive mobile app with a robust backend architecture. |
+| ⚡ **[Relay Card](https://github.com/Harshnikam04/Relay-card)** | An open-source hardware project featuring isolated switching for high-power loads, designed in KiCad 9.0. |
+| 🎮 **Luffy Runner** | A highly interactive runner game with dynamic animations. |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshnikam04&show_icons=true&theme=tokyonight&hide_border=true" alt="Harsh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshnikam04&theme=tokyonight&hide_border=true" alt="Harsh's GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:Harshnikam919@gmail.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="www.linkedin.com/in/harshnikam0406">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://harshnikam04.github.io/Portfolie/">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
